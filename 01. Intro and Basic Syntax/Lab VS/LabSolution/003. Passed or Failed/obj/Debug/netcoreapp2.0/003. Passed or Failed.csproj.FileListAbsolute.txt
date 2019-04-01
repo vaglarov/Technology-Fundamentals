@@ -1,0 +1,10 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\bin\Debug\netcoreapp2.0\003. Passed or Failed.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\bin\Debug\netcoreapp2.0\003. Passed or Failed.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\bin\Debug\netcoreapp2.0\003. Passed or Failed.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\bin\Debug\netcoreapp2.0\003. Passed or Failed.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\bin\Debug\netcoreapp2.0\003. Passed or Failed.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\obj\Debug\netcoreapp2.0\003. Passed or Failed.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\obj\Debug\netcoreapp2.0\003. Passed or Failed.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\obj\Debug\netcoreapp2.0\003. Passed or Failed.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\obj\Debug\netcoreapp2.0\003. Passed or Failed.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\003. Passed or Failed\obj\Debug\netcoreapp2.0\003. Passed or Failed.pdb

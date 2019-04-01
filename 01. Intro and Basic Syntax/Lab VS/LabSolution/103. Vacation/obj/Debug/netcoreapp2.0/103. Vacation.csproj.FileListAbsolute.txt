@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\bin\Debug\netcoreapp2.0\103. Vacation.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\bin\Debug\netcoreapp2.0\103. Vacation.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\bin\Debug\netcoreapp2.0\103. Vacation.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\bin\Debug\netcoreapp2.0\103. Vacation.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\bin\Debug\netcoreapp2.0\103. Vacation.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\103. Vacation\obj\Debug\netcoreapp2.0\103. Vacation.pdb

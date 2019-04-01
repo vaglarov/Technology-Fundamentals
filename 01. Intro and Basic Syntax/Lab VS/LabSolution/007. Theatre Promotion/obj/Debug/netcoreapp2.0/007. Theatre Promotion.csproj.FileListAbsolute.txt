@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\bin\Debug\netcoreapp2.0\007. Theatre Promotion.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\bin\Debug\netcoreapp2.0\007. Theatre Promotion.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\bin\Debug\netcoreapp2.0\007. Theatre Promotion.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\bin\Debug\netcoreapp2.0\007. Theatre Promotion.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\bin\Debug\netcoreapp2.0\007. Theatre Promotion.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\007. Theatre Promotion\obj\Debug\netcoreapp2.0\007. Theatre Promotion.pdb

@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\013. Holidays Between Two Dates.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\013. Holidays Between Two Dates.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\013. Holidays Between Two Dates.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\013. Holidays Between Two Dates.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\bin\Debug\netcoreapp2.0\013. Holidays Between Two Dates.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\013. Holidays Between Two Dates\obj\Debug\netcoreapp2.0\013. Holidays Between Two Dates.csprojAssemblyReference.cache

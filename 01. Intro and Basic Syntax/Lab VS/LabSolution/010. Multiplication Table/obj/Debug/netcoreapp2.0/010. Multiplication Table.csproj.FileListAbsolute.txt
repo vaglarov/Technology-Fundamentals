@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\bin\Debug\netcoreapp2.0\010. Multiplication Table.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\bin\Debug\netcoreapp2.0\010. Multiplication Table.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\bin\Debug\netcoreapp2.0\010. Multiplication Table.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\bin\Debug\netcoreapp2.0\010. Multiplication Table.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\bin\Debug\netcoreapp2.0\010. Multiplication Table.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\010. Multiplication Table\obj\Debug\netcoreapp2.0\010. Multiplication Table.pdb

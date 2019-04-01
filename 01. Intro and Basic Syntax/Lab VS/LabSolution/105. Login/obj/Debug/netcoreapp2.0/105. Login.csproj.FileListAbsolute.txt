@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\bin\Debug\netcoreapp2.0\105. Login.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\bin\Debug\netcoreapp2.0\105. Login.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\bin\Debug\netcoreapp2.0\105. Login.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\bin\Debug\netcoreapp2.0\105. Login.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\bin\Debug\netcoreapp2.0\105. Login.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\105. Login\obj\Debug\netcoreapp2.0\105. Login.csprojAssemblyReference.cache

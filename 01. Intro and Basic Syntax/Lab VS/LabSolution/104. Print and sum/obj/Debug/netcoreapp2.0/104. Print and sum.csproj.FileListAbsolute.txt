@@ -1,0 +1,10 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\bin\Debug\netcoreapp2.0\104. Print and sum.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\bin\Debug\netcoreapp2.0\104. Print and sum.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\bin\Debug\netcoreapp2.0\104. Print and sum.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\bin\Debug\netcoreapp2.0\104. Print and sum.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\bin\Debug\netcoreapp2.0\104. Print and sum.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\obj\Debug\netcoreapp2.0\104. Print and sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\obj\Debug\netcoreapp2.0\104. Print and sum.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\obj\Debug\netcoreapp2.0\104. Print and sum.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\obj\Debug\netcoreapp2.0\104. Print and sum.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\104. Print and sum\obj\Debug\netcoreapp2.0\104. Print and sum.pdb

@@ -1,0 +1,10 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\bin\Debug\netcoreapp2.0\006. Foreign Languages.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\bin\Debug\netcoreapp2.0\006. Foreign Languages.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\bin\Debug\netcoreapp2.0\006. Foreign Languages.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\bin\Debug\netcoreapp2.0\006. Foreign Languages.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\bin\Debug\netcoreapp2.0\006. Foreign Languages.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\obj\Debug\netcoreapp2.0\006. Foreign Languages.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\obj\Debug\netcoreapp2.0\006. Foreign Languages.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\obj\Debug\netcoreapp2.0\006. Foreign Languages.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\obj\Debug\netcoreapp2.0\006. Foreign Languages.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\006. Foreign Languages\obj\Debug\netcoreapp2.0\006. Foreign Languages.pdb

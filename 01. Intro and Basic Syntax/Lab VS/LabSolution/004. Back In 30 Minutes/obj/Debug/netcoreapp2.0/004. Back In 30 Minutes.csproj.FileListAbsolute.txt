@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\bin\Debug\netcoreapp2.0\004. Back In 30 Minutes.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\bin\Debug\netcoreapp2.0\004. Back In 30 Minutes.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\bin\Debug\netcoreapp2.0\004. Back In 30 Minutes.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\bin\Debug\netcoreapp2.0\004. Back In 30 Minutes.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\bin\Debug\netcoreapp2.0\004. Back In 30 Minutes.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\004. Back In 30 Minutes\obj\Debug\netcoreapp2.0\004. Back In 30 Minutes.pdb

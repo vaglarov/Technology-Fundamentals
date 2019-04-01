@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\bin\Debug\netcoreapp2.0\012. Even Number.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\bin\Debug\netcoreapp2.0\012. Even Number.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\bin\Debug\netcoreapp2.0\012. Even Number.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\bin\Debug\netcoreapp2.0\012. Even Number.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\bin\Debug\netcoreapp2.0\012. Even Number.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\012. Even Number\obj\Debug\netcoreapp2.0\012. Even Number.pdb

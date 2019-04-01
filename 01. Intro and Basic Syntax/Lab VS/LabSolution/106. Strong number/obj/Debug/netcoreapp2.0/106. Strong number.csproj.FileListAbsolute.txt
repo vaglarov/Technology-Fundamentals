@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\bin\Debug\netcoreapp2.0\106. Strong number.deps.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\bin\Debug\netcoreapp2.0\106. Strong number.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\bin\Debug\netcoreapp2.0\106. Strong number.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\bin\Debug\netcoreapp2.0\106. Strong number.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\bin\Debug\netcoreapp2.0\106. Strong number.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.dll
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.pdb
+D:\SoftUni\Technology Fundamentals\01. Intro and Basic Syntax\Lab VS\LabSolution\106. Strong number\obj\Debug\netcoreapp2.0\106. Strong number.csprojAssemblyReference.cache

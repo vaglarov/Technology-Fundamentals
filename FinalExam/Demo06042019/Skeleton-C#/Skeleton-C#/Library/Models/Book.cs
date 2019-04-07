@@ -8,6 +8,15 @@ namespace Library.Models
 {
     public class Book
     {
-        //TO DO
+        public int Id { get; set; }
+
+        [Required]
+        public string Title { get; set; }
+
+        [Required]
+        public string Author { get; set; }
+
+        [Required]
+        public double Price { get; set; } = 1;
     }
 }

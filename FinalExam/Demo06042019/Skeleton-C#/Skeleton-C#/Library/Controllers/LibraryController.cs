@@ -1,60 +1,80 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
+using Library.Data;
 using Library.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Library.Controllers
 {
     public class LibraryController : Controller
-    {
+    {   
         public IActionResult Index()
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                var books= db.Books.ToList();
+                return this.View(books);
+            }
         }
 
         [HttpGet]
         public IActionResult Create()
         {
-            //TO DO
-            return null;
+            return View();
         }
 
         [HttpPost]
         public IActionResult Create(Book book)
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                db.Books.Add(book);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
         }
 
         [HttpGet]
         public IActionResult Edit(int id)
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                Book book = db.Books.Find(id);
+                return View(book);
+            }
         }
 
         [HttpPost]
         public IActionResult Edit(Book book)
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                db.Books.Update(book);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
         }
 
         [HttpGet]
         public IActionResult Delete(int id)
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                Book book = db.Books.Find(id);
+                return View(book);
+            }
         }
 
         [HttpPost]
         public IActionResult Delete(Book book)
         {
-            //TO DO
-            return null;
+            using (var db = new BookDb())
+            {
+                db.Books.Remove(book);
+                db.SaveChanges();
+            }
+            return RedirectToAction("Index");
         }
     }
 }

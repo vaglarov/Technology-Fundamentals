@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.deps.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\bin\Debug\netcoreapp2.1\02. Activation Keys.pdb
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\02. Activation Keys\obj\Debug\netcoreapp2.1\02. Activation Keys.pdb

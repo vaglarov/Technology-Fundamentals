@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\bin\Debug\netcoreapp2.1\Vapor Winter Sale.deps.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\bin\Debug\netcoreapp2.1\Vapor Winter Sale.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\bin\Debug\netcoreapp2.1\Vapor Winter Sale.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\bin\Debug\netcoreapp2.1\Vapor Winter Sale.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\bin\Debug\netcoreapp2.1\Vapor Winter Sale.pdb
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\20 December 2018\vs\20122018\20122018\obj\Debug\netcoreapp2.1\Vapor Winter Sale.pdb

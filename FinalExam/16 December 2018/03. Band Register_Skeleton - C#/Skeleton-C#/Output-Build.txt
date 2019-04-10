@@ -1,0 +1,4 @@
+﻿1>------ Build started: Project: BandRegister, Configuration: Debug Any CPU ------
+1>BandRegister -> D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\03. Band Register_Skeleton - C#\Skeleton-C#\BandRegister\bin\Debug\netcoreapp2.1\BandRegister.dll
+1>BandRegister -> D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\03. Band Register_Skeleton - C#\Skeleton-C#\BandRegister\bin\Debug\netcoreapp2.1\BandRegister.Views.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========

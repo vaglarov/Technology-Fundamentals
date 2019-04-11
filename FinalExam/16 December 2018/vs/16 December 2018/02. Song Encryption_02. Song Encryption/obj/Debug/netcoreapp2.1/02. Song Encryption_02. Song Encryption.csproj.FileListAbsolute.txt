@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.deps.json
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\bin\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.pdb
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\16 December 2018\vs\16 December 2018\02. Song Encryption_02. Song Encryption\obj\Debug\netcoreapp2.1\02. Song Encryption_02. Song Encryption.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Post Office", "03. Post Office\03. Post Office.csproj", "{06B19CC8-183E-442B-B5D8-8224A5B15CD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Iron Girder", "04. Iron Girder\04. Iron Girder.csproj", "{52D19538-6C6F-4887-848F-CEBCD5560DA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06B19CC8-183E-442B-B5D8-8224A5B15CD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06B19CC8-183E-442B-B5D8-8224A5B15CD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06B19CC8-183E-442B-B5D8-8224A5B15CD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06B19CC8-183E-442B-B5D8-8224A5B15CD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D19538-6C6F-4887-848F-CEBCD5560DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D19538-6C6F-4887-848F-CEBCD5560DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D19538-6C6F-4887-848F-CEBCD5560DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D19538-6C6F-4887-848F-CEBCD5560DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68711755-2E30-4192-90BA-09B183E715A6}
+	EndGlobalSection
+EndGlobal

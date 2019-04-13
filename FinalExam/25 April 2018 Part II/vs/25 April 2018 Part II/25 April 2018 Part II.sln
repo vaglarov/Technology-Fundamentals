@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 – Tseam Account", "3 – Tseam Account\3 – Tseam Account.csproj", "{E8824012-5E21-4C1C-9089-66A7E0C86814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 MOBA", "04 MOBA\04 MOBA.csproj", "{9E6F9F46-3CD4-4348-B7E8-AE9B928490A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8824012-5E21-4C1C-9089-66A7E0C86814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8824012-5E21-4C1C-9089-66A7E0C86814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8824012-5E21-4C1C-9089-66A7E0C86814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8824012-5E21-4C1C-9089-66A7E0C86814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6F9F46-3CD4-4348-B7E8-AE9B928490A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6F9F46-3CD4-4348-B7E8-AE9B928490A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6F9F46-3CD4-4348-B7E8-AE9B928490A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6F9F46-3CD4-4348-B7E8-AE9B928490A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8247F407-6DCF-49E0-A5A1-F0A69ABF9B86}
+	EndGlobalSection
+EndGlobal

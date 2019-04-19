@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\bin\Debug\netcoreapp2.1\202. Ascii Sumator.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\bin\Debug\netcoreapp2.1\202. Ascii Sumator.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\bin\Debug\netcoreapp2.1\202. Ascii Sumator.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\bin\Debug\netcoreapp2.1\202. Ascii Sumator.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\bin\Debug\netcoreapp2.1\202. Ascii Sumator.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\202. Ascii Sumator\obj\Debug\netcoreapp2.1\202. Ascii Sumator.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\bin\Debug\netcoreapp2.1\201. Extract Person Information.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\bin\Debug\netcoreapp2.1\201. Extract Person Information.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\bin\Debug\netcoreapp2.1\201. Extract Person Information.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\bin\Debug\netcoreapp2.1\201. Extract Person Information.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\bin\Debug\netcoreapp2.1\201. Extract Person Information.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\obj\Debug\netcoreapp2.1\201. Extract Person Information.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\obj\Debug\netcoreapp2.1\201. Extract Person Information.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\obj\Debug\netcoreapp2.1\201. Extract Person Information.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\obj\Debug\netcoreapp2.1\201. Extract Person Information.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\201. Extract Person Information\obj\Debug\netcoreapp2.1\201. Extract Person Information.pdb

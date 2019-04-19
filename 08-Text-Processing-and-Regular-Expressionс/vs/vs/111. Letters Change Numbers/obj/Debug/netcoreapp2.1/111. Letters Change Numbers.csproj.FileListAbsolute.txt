@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\bin\Debug\netcoreapp2.1\111. Letters Change Numbers.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\bin\Debug\netcoreapp2.1\111. Letters Change Numbers.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\bin\Debug\netcoreapp2.1\111. Letters Change Numbers.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\bin\Debug\netcoreapp2.1\111. Letters Change Numbers.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\bin\Debug\netcoreapp2.1\111. Letters Change Numbers.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\111. Letters Change Numbers\obj\Debug\netcoreapp2.1\111. Letters Change Numbers.pdb

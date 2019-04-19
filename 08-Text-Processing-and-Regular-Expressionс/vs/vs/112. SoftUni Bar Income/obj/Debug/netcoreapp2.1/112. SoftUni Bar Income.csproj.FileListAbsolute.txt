@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\bin\Debug\netcoreapp2.1\112. SoftUni Bar Income.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\bin\Debug\netcoreapp2.1\112. SoftUni Bar Income.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\bin\Debug\netcoreapp2.1\112. SoftUni Bar Income.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\bin\Debug\netcoreapp2.1\112. SoftUni Bar Income.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\bin\Debug\netcoreapp2.1\112. SoftUni Bar Income.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\112. SoftUni Bar Income\obj\Debug\netcoreapp2.1\112. SoftUni Bar Income.pdb

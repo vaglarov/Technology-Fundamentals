@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\bin\Debug\netcoreapp2.1\206. Winning Ticket.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\bin\Debug\netcoreapp2.1\206. Winning Ticket.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\bin\Debug\netcoreapp2.1\206. Winning Ticket.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\bin\Debug\netcoreapp2.1\206. Winning Ticket.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\bin\Debug\netcoreapp2.1\206. Winning Ticket.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\206. Winning Ticket\obj\Debug\netcoreapp2.1\206. Winning Ticket.pdb

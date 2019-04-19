@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\bin\Debug\netcoreapp2.1\demo.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\bin\Debug\netcoreapp2.1\demo.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache

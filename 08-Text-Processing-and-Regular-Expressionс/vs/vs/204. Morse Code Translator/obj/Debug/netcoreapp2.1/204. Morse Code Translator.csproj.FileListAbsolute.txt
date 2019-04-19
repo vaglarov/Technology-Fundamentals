@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\bin\Debug\netcoreapp2.1\204. Morse Code Translator.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\bin\Debug\netcoreapp2.1\204. Morse Code Translator.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\bin\Debug\netcoreapp2.1\204. Morse Code Translator.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\bin\Debug\netcoreapp2.1\204. Morse Code Translator.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\bin\Debug\netcoreapp2.1\204. Morse Code Translator.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.csprojAssemblyReference.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\204. Morse Code Translator\obj\Debug\netcoreapp2.1\204. Morse Code Translator.pdb

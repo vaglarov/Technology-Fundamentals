@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\bin\Debug\netcoreapp2.1\207. Nether Realms.deps.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\bin\Debug\netcoreapp2.1\207. Nether Realms.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\bin\Debug\netcoreapp2.1\207. Nether Realms.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\bin\Debug\netcoreapp2.1\207. Nether Realms.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\bin\Debug\netcoreapp2.1\207. Nether Realms.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.dll
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.pdb
+D:\SoftUni\Technology Fundamentals\08-Text-Processing-and-Regular-Expressionс\vs\vs\207. Nether Realms\obj\Debug\netcoreapp2.1\207. Nether Realms.csprojAssemblyReference.cache

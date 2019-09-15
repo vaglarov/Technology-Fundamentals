@@ -1,0 +1,11 @@
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\bin\Debug\netcoreapp2.1\04. Iron Girder.deps.json
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\bin\Debug\netcoreapp2.1\04. Iron Girder.runtimeconfig.json
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\bin\Debug\netcoreapp2.1\04. Iron Girder.runtimeconfig.dev.json
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\bin\Debug\netcoreapp2.1\04. Iron Girder.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\bin\Debug\netcoreapp2.1\04. Iron Girder.pdb
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.csproj.CoreCompileInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.AssemblyInfoInputs.cache
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.AssemblyInfo.cs
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.dll
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.pdb
+D:\SoftUni\Technology Fundamentals\FinalExam\27 August 2018 Part II\vs\27 August 2018 Part II\04. Iron Girder\obj\Debug\netcoreapp2.1\04. Iron Girder.csprojAssemblyReference.cache

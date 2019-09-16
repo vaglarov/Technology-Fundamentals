@@ -13,6 +13,7 @@ namespace Tetris
         static int ConsoleRows = 1 + TetrisRows + 1;
         static int ConsoleCols = 1 + TetrisCols + 1 + InfoCols + 1;
         static List<bool[,]> TetrisFigures = CreateTetrisFigutes();
+        static int[] ScorePerLines = new int[] { 0, 40, 100, 300, 1200 };
 
 
         //State 
@@ -37,7 +38,6 @@ namespace Tetris
             while (true)
             {
                 Frame++;
-
                 if (Frame % FramesToMoveFigure == 0)
                 {
                     CurrentFigureRow++;
@@ -47,6 +47,8 @@ namespace Tetris
                 if (Collision())
                 {
                     AddCurrentFigureToTetrisField();
+                    int lines = CheckForFullLines();
+                    Score += ScorePerLines[lines];
                     CurrentFigure = TetrisFigures[Random.Next(0, TetrisFigures.Count)];
                     CurrentFigureRow = 0;
                     CurrentFigureCol = Random.Next(1, TetrisCols - CurrentFigure.GetLength(1));
@@ -78,7 +80,7 @@ namespace Tetris
                     if (key.Key == ConsoleKey.RightArrow ||
                         key.Key == ConsoleKey.D)
                     {
-                        if (CurrentFigureCol < TetrisCols-CurrentFigure.GetLength(1))
+                        if (CurrentFigureCol < TetrisCols - CurrentFigure.GetLength(1))
                         {
                             CurrentFigureCol++;
                         }
@@ -96,7 +98,7 @@ namespace Tetris
                         key.Key == ConsoleKey.UpArrow ||
                         key.Key == ConsoleKey.W)
                     {
-                        //TODO: Rotation
+                        RotateCurrentfigure();
                     }
                 }
                 DrawBorder();
@@ -110,6 +112,51 @@ namespace Tetris
 
         }
 
+        private static void RotateCurrentfigure()
+        {
+            var newFigure = new bool[CurrentFigure.GetLength(1), CurrentFigure.GetLength(0)];
+
+            for (int row = 0; row < CurrentFigure.GetLength(0); row++)
+            {
+                for (int col = 0; col < CurrentFigure.GetLength(1); col++)
+                {
+                    newFigure[col, CurrentFigure.GetLength(0)-row-1] = CurrentFigure[row, col];
+                }
+            }
+
+            CurrentFigure = newFigure;
+        }
+
+        private static int CheckForFullLines()
+        {
+            int lines = 0;
+            for (int row = 0; row < TetrisField.GetLength(0); row++)
+            {
+                bool rowIsFull = true;
+                for (int col = 0; col < TetrisField.GetLength(1); col++)
+                {
+                    if (!TetrisField[row, col])
+                    {
+                        rowIsFull = false;
+                        break;
+                    }
+                }
+                if (rowIsFull)
+                {
+                    for (int rowToMove = row; rowToMove >= 1; rowToMove--)
+                    {
+                        for (int colToMove = 0; colToMove < TetrisField.GetLength(1); colToMove++)
+                        {
+                            TetrisField[rowToMove, colToMove] = TetrisField[rowToMove - 1, colToMove];
+                        }
+
+                    }
+                    lines++;
+                }
+            }
+
+            return lines;
+        }
 
         private static void AddCurrentFigureToTetrisField()
         {
@@ -117,18 +164,18 @@ namespace Tetris
             {
                 for (int col = 0; col < CurrentFigure.GetLength(1); col++)
                 {
-                    if (CurrentFigure[row,col])
+                    if (CurrentFigure[row, col])
                     {
                         TetrisField[CurrentFigureRow + row, CurrentFigureCol + col] = true;
                     }
                 }
             }
-            
+
         }
 
         private static bool Collision()
         {
-            if (CurrentFigureRow+CurrentFigure.GetLength(0)==TetrisRows)
+            if (CurrentFigureRow + CurrentFigure.GetLength(0) == TetrisRows)
             {
                 return true;
             }
@@ -136,8 +183,8 @@ namespace Tetris
             {
                 for (int col = 0; col < CurrentFigure.GetLength(1); col++)
                 {
-                    if (CurrentFigure[row,col]
-                        &&TetrisField[CurrentFigureRow+1+row,CurrentFigureCol+col])
+                    if (CurrentFigure[row, col]
+                        && TetrisField[CurrentFigureRow + 1 + row, CurrentFigureCol + col])
                     {
                         return true;
                     }
@@ -203,7 +250,7 @@ namespace Tetris
                 {
                     if (CurrentFigure[row, col])
                     {
-                        WriteWhitColor("█", row + 1 + CurrentFigureRow, col + 1 + CurrentFigureCol,ConsoleColor.Yellow);
+                        WriteWhitColor("█", row + 1 + CurrentFigureRow, col + 1 + CurrentFigureCol, ConsoleColor.Yellow);
                     }
                 }
             }
@@ -211,7 +258,7 @@ namespace Tetris
         }
         private static void DrawTetrisField()
         {
-            for (int row =0; row < TetrisField.GetLength(0); row++)
+            for (int row = 0; row < TetrisField.GetLength(0); row++)
             {
                 for (int col = 0; col < TetrisField.GetLength(1); col++)
                 {
@@ -284,11 +331,11 @@ namespace Tetris
         {
             var scoreAsString = Score.ToString();
             scoreAsString += new string(' ', 9 - scoreAsString.Length);
-            WriteWhitColor( "╔═══════════╗", 6, 3, ConsoleColor.Cyan);
-            WriteWhitColor( "║ GAME OVER ║", 7, 3, ConsoleColor.Cyan);
-            WriteWhitColor( "║   SCORE   ║", 8, 3, ConsoleColor.Cyan);
+            WriteWhitColor("╔═══════════╗", 6, 3, ConsoleColor.Cyan);
+            WriteWhitColor("║ GAME OVER ║", 7, 3, ConsoleColor.Cyan);
+            WriteWhitColor("║   SCORE   ║", 8, 3, ConsoleColor.Cyan);
             WriteWhitColor($"║  {scoreAsString}║", 9, 3, ConsoleColor.Cyan);
-            WriteWhitColor( "╚═══════════╝", 10, 3, ConsoleColor.Cyan);
+            WriteWhitColor("╚═══════════╝", 10, 3, ConsoleColor.Cyan);
         }
     }
 }
